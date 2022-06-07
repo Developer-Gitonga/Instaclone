@@ -44,7 +44,6 @@ class Image(models.Model):
     user = models.ForeignKey(User, on_delete=models.CASCADE, related_name='user',null=True)
     profile = models.ForeignKey(Profile, on_delete=models.CASCADE, related_name='profile',null=True)
     
-    
     class Meta:
         ordering = ['-updated','-created']
     
@@ -72,7 +71,6 @@ class Like(models.Model):
     
     def __str__(self):
         return self.image
-    
     
 class Comment(models.Model):
     image = models.ForeignKey(Image, related_name="comments",on_delete=models.CASCADE)
