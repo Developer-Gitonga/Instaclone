@@ -19,7 +19,6 @@ class ImageTestCase(TestCase):
         image = Image.objects.get(id=self.user.id)
         self.assertEqual(image.name, 'test image')
 
-
 # test profile class
 class ProfileTestCase(TestCase):
     def setUp(self):
