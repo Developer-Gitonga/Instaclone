@@ -2,10 +2,10 @@
 
 Author: Dev Git
 Description<br>
-This is a personal gallery application built using Python that allows one to view photos and search for photos based on the category and the locations.
+This is a personal instagram clone application built using Python that allows one to view photos and search for photos based on the category and like the photos too.
 
 Live link
-https://instaclone-dg.herokuapp.com/
+[https://instaclone-dg.herokuapp.com/]
 
 Setup Installation
 Copy the github repository url
@@ -23,10 +23,10 @@ Bootstrap
 Python
 Django
 Dependencies
-One will be directed to the homepage where they will view the images displayed on the page.
-One can click on the image and they will be redirected to a page which will display the image, the image title, the image description and the day posted.
-One can search on a photo category that are shown in the search placeholder and will display all images related to searched category.
-One can also search on photos based on locations like China, England, Japan, Kenya and USA
+One will be able to sign-in and log-in.
+One can click on the image and they will be redirected to a page which will display the image and can post comment.
+One can search on a photo category that are shown in the search placeholder and will display all images related to searched profile.
+
 Contact Information
 You can reach me on my email [aizensalim52@gmail.com.com]
 
