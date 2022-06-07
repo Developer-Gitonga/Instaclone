@@ -4,7 +4,6 @@ from django.contrib.auth.models import User
 
 # Create your models here.
 
-
 #Choices
 LIKE_CHOICE = (
     ('Like', 'Like'),
@@ -24,8 +23,6 @@ class Profile(models.Model):
     def num_image(self):
         return self.profile.all().count()
     
-    
-        
     def save_profile(self):
         self.save()
 
