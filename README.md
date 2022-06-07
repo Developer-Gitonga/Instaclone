@@ -2,7 +2,7 @@
 
 Author: Dev Git<br>
 Description<br>
-This is a personal instagram clone application built using Python that allows one to view photos and search for photos based on the category and like the photos too.
+This is an instagram clone where users can see the images they post. One can like and comment on posted images.
 
 Setup Installation<br>
 Copy the github repository url
