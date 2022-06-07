@@ -16,12 +16,12 @@ To run the server<br>
 python manage.py runserver
 
 # Technologies Used<br>
-HTML
-CSS
-Bootstrap
-Python
-Django
-Dependencies
+HTML<br>
+CSS<br>
+Bootstrap<br>
+Python<br>
+Django<br>
+Dependencies<br>
 
 # Objectives<br>
 One will be able to sign-in and log-in.<br>
