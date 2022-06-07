@@ -15,13 +15,11 @@ class ImageForm(ModelForm):
     class Meta:
         model = Image
         fields = ['image','name','caption']
-        
-        
+            
 class CommentForm(ModelForm):
     class Meta:
         model = Comment
         fields = ['comment']
-
 
 class ProfileForm(ModelForm):
     class Meta:
