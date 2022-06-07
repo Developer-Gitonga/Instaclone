@@ -1,13 +1,10 @@
 # Instaclone
 
-Author: Dev Git
+Author: Dev Git<br>
 Description<br>
 This is a personal instagram clone application built using Python that allows one to view photos and search for photos based on the category and like the photos too.
 
-Live link
-[https://instaclone-dg.herokuapp.com/]
-
-Setup Installation
+Setup Installation<br>
 Copy the github repository url
 Clone to your computer
 Open terminal and navigate to the directory of the project you just cloned to your computer
